@@ -1,0 +1,46 @@
+body{
+    background-image: url('https://thumbs.dreamstime.com/b/tropical-leaves-monstera-pink-background-space-text-flat-lay-top-view-pastel-colors-summer-minimal-concept-149711057.jpg');
+    background-size: cover;
+}
+.heading{
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    width: 90%;
+    font-size: 25px;
+    margin-top:10px;
+    background-color:lightsalmon;
+}
+.note{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightcyan;
+    color: black;
+    font-size: 15px;
+}
+.copy_right_footer{
+    font-family: 'Courier New', Courier, monospace;
+    position: fixed;
+    color: black;
+    background-color:gray;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+#canvas{
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px grey;
+    background-color: lightblue;
+    border: 10px black;
+    margin-top: 50px;
+    margin-left:800px;
+    max-height: 450;
+    max-width: 550;
+}
+#item{
+    background-color: lightcyan;
+    font-family: 'Courier New', Courier, monospace;
+    width: 350px;
+    height: 30px;
+}
